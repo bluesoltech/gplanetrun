@@ -21,7 +21,7 @@ function EventSG1() {
             className="font-bold bg-red-400 hover:bg-red-300 p-1 mr-2 rounded-lg px-3 text-white"
             href="/register"
           >
-            ₹499
+            ₹200
           </a>
         </div>
         <div className="w-full p-2 my-3 bg-white flex items-center justify-between rounded-xl">
@@ -30,7 +30,7 @@ function EventSG1() {
             className="font-bold bg-red-400 hover:bg-red-300 p-1 mr-2 rounded-lg px-3 text-white"
             href="/register"
           >
-            ₹699
+            ₹250
           </a>
         </div>
       </div>

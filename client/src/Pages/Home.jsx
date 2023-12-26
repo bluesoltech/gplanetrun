@@ -1,6 +1,7 @@
 import Navbar from "../components/Navbar";
 import Eventf from "../components/Eventf";
 import EventS from "../components/EventS";
+import Footer from "../components/Footer";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
       </div>
       <Eventf />
       <EventS />
+      <Footer />
     </div>
   );
 }

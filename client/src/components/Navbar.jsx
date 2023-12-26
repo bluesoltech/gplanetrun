@@ -5,7 +5,11 @@ function Navbar() {
   return (
     <div>
       <div className="flex p-3 justify-around items-center bg-white">
-        <div className="text-3xl">Logo</div>
+        <div className="text-3xl">
+          {/* <img src="../../assets/images/logo.jpeg" /> */}
+          <spam className="text-green-500">GREEN</spam> PLANET
+          <spam className="text-green-500">RUN</spam>
+        </div>
         <nav>
           <ul className="flex text-gray-400  active:text-black">
             <li className="m-3 px-1.5 text-xl hover:text-black">

@@ -30,6 +30,32 @@ function EventSG2() {
             voluptas ut corrupti itaque. In earum voluptatem in ipsam deleniti
             non dolore Quis ab velit omnis est voluptas cumque id fuga debitis.{" "}
           </p>
+          <br></br>
+          <p>
+            <span className="text-2xl ">Event Information</span>
+            <ul className="list-disc p-3">
+              <li className="my-2">
+                Non optio fuga et inventore esse qui architecto soluta qui nisi
+                voluptas. Ad voluptatem quaerat ut magni voluptatem aut numquam
+                ducimus At officiis dolor.
+              </li>
+              <li className="my-2">
+                Non optio fuga et inventore esse qui architecto soluta qui nisi
+                voluptas. Ad voluptatem quaerat ut magni voluptatem aut numquam
+                ducimus At officiis dolor.
+              </li>
+              <li className="my-2">
+                Non optio fuga et inventore esse qui architecto soluta qui nisi
+                voluptas. Ad voluptatem quaerat ut magni voluptatem aut numquam
+                ducimus At officiis dolor.
+              </li>
+              <li className="my-2">
+                Non optio fuga et inventore esse qui architecto soluta qui nisi
+                voluptas. Ad voluptatem quaerat ut magni voluptatem aut numquam
+                ducimus At officiis dolor.
+              </li>
+            </ul>
+          </p>
         </div>
       </div>
       <div className="bg-gray-300 m-1 p-3 ">
